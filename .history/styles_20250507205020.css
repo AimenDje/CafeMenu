@@ -4,12 +4,11 @@ h1, h2, p {
 
 h1, h2 {
   font-family: Impact, serif;
+  
 }
 
-h1 {
-  font-size: 40px;
-  margin-top: 0;
-  margin-bottom:15px;
+h1{
+  font-size:40px;
 }
 
 h2{
@@ -62,17 +61,6 @@ body {
   margin-top:25px;
 }
 
-.address{
-  margin-bottom:5px;
-}
-
-img {
-  display: block;
-  margin-top:-25px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 /* FOOTER */
 
 footer{
@@ -83,14 +71,10 @@ a{
   color:black;
 }
 
-a:visited {
-  color: black;
+a:visited{
+  color:grey;
 }
 
-a:hover {
-  color: brown;
-}
-
-a:active {
-  color: brown;
+a:hover{
+  color:brown;
 }
